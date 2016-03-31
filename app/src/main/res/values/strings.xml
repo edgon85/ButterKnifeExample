@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButterKnife Example</string>
+
+    <string name="ingresa_nombre">Ingresa tu nombre:</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="hola">Hola </string>
+</resources>
